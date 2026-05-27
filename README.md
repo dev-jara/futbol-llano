@@ -24,7 +24,7 @@ administrar equipos, jugadores, partidos y estadísticas en tiempo real.
 ## ⚙️ Instalación
 
 1. Clona el repositorio
-git clone https://github.com/dev-jara/futbol.git
+git clone https://github.com/dev-jara/futbol-llano.git
 
 2. Instala las dependencias
 npm install
